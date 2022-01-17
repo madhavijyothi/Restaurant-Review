@@ -1,0 +1,129 @@
+/* -- Navbar -- */
+.Navbar {
+	background-color: #B70C03 !important;
+}
+
+.Yelp-logo {
+  	height: 70px;
+  	margin-left: 80px;
+}
+
+.ContactButtons {
+	margin-right: 40px;
+}
+
+.redBackground {
+	background-color: #B70C03 !important;
+	color: white !important;
+}
+
+.searchButton {
+	margin: 10px !important;
+}
+
+input {
+	border-radius: 2px;
+	height: 19px;
+}
+
+.SignButtons {
+	margin-right: 60px;
+}
+
+
+/* -- Restaurant Page --- */
+p {
+	font-size: 12px;
+}
+
+.ErrorPage {
+  text-align: center;
+}
+
+.RestaurantColumns {
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+.RestaurantInfo {
+	width: 40% !important;
+  float: left;
+}
+
+.ReviewsTable {
+	height: -100px;
+}
+
+.ReviewsList {
+	width: 55% !important;
+  float: right;
+}
+
+.crop {
+	width: 250px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.crop img {
+    width: 450px;
+    height: 300px;
+    margin: -75px 0 0 -100px;
+}
+
+/* -- Contact Page -- */
+.ContactCombineElements {
+  margin-top: 50px;
+  margin-left: 95px;
+  margin-right: 95px;
+  text-align: left;
+}
+
+.Contact-email {
+  font-size: 15px;
+}
+
+
+/* -- About Page --*/
+.About {
+  margin-top: 50px;
+  margin-left: 95px;
+  margin-right: 100px;
+  text-align: left;
+}
+
+.About-intro {
+  font-size: 30px;
+
+}
+
+.About-text {
+  font-size: 15px;
+
+}
+
+/* -- SignIn Page -- */
+.SignIn {
+  margin-top: 100px;
+  text-align: center;
+}
+
+/* -- SignUp Page -- */
+.SignUp {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.SignUpForm {
+  margin-top: 50px;
+}
+
+/* -- AddReview Page -- */
+.AddReview {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.reviewStars {
+  display: inline-block;
+}

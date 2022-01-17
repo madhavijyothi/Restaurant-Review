@@ -1,0 +1,31 @@
+.Navbar {
+	background-color: #B70C03 !important;
+	/*height: 70px !important;*/
+}
+
+.Yelp-logo {
+  	height: 70px;
+  	margin-left: 80px;
+}
+
+.ContactButtons {
+	margin-right: 40px;
+}
+
+.redBackground {
+	background-color: #B70C03 !important;
+	color: white !important;
+}
+
+.searchButton {
+	margin: 10px !important;
+}
+
+input {
+	border-radius: 2px;
+	height: 19px;
+}
+
+.SignButtons {
+	margin-right: 60px;
+}

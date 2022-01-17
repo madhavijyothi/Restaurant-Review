@@ -1,0 +1,28 @@
+
+.Map-MapWindow{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+/*not used*/
+.Map-Marker{
+  position: relative;
+  left: -5px;
+  top: -20px;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 20px solid #f00;
+}
+
+
+.Map-Marker-Circle{
+  position: relative;
+  left: -7.5px;
+  top: --7.5px;
+  background-color: red;
+  height: 15px;
+  width: 15px;
+  border-radius: 15px;
+}
